@@ -6,7 +6,6 @@
   
   Status: Playing Now  
   Python Version: 3.x  
-  License: MIT
 </div>
 
 ---
